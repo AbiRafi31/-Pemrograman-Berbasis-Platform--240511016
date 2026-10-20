@@ -24,8 +24,8 @@
 
 ## Refleksi
 
-Dari ketiga platform, saya paling tertarik mempelajari platform mobile. Hampir semua aktivitas saya sehari-hari dilakukan lewat HP, jadi saya penasaran bagaimana aplikasi yang sering saya pakai itu dibuat. Saya juga ingin suatu hari bisa membuat aplikasi sendiri yang berguna bagi orang lain.
+Dari tiga platform, saya paling tertarik belajar mobile. Saya hampir setiap hari memakai HP, jadi saya ingin tahu bagaimana aplikasi seperti WhatsApp dan Gojek dibuat. Saya juga ingin bisa membuat aplikasi sendiri nanti.
 
-Tantangan terbesar saat setup environment ada dua. Pertama, ukuran Android Studio dan SDK-nya besar, sehingga proses unduh dan instalasinya cukup lama, apalagi ada banyak lisensi yang harus disetujui satu per satu di setup wizard. Kedua, saya masih belum terbiasa dengan Git. Saya sempat mendapat error "not a git repository" karena menjalankan git add di folder yang belum berisi repository. Nama repository saya juga awalnya belum sesuai ketentuan, sehingga harus diganti. Selain itu, file analisis saya sempat belum ikut ter-push ke GitHub karena salah memasukkannya ke folder repo.
+Tantangan terbesar saat setup ada dua. Pertama, Android Studio ukurannya besar, jadi proses unduh dan instalasinya lama. Kedua, saya masih baru belajar Git. Saya sempat mendapat error "not a git repository" karena menjalankan perintah di folder yang salah. Nama repository saya juga sempat salah, sehingga harus diganti. File analisis saya juga sempat belum masuk ke GitHub karena saya menyimpannya di folder yang berbeda.
 
-Untuk mengatasinya, saya akan mengunduh tools saat koneksi stabil dan membaca pesan error dengan teliti sebelum mencari solusinya. Saya juga akan membiasakan menjalankan git status sebelum commit dan push untuk memastikan posisi folder dan file sudah benar. Jika masih ada kendala, saya akan bertanya kepada teman atau dosen, lalu mencatat solusinya agar tidak terulang.
+Rencana saya untuk mengatasinya adalah mengunduh tools saat internet lancar. Saya juga akan membaca pesan error dengan pelan-pelan, lalu mencari artinya. Sebelum commit dan push, saya akan mengecek dengan perintah git status supaya yakin file dan foldernya sudah benar. Kalau masih bingung, saya akan bertanya kepada teman atau dosen.
