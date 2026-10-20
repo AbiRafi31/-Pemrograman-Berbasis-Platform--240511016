@@ -28,4 +28,4 @@ Dari tiga platform, saya paling tertarik belajar mobile. Saya hampir setiap hari
 
 Tantangan terbesar saat setup ada dua. Pertama, Android Studio ukurannya besar, jadi proses unduh dan instalasinya lama. Kedua, saya masih baru belajar Git. Saya sempat mendapat error "not a git repository" karena menjalankan perintah di folder yang salah. Nama repository saya juga sempat salah, sehingga harus diganti. File analisis saya juga sempat belum masuk ke GitHub karena saya menyimpannya di folder yang berbeda.
 
-Rencana saya untuk mengatasinya adalah mengunduh tools saat internet lancar. Saya juga akan membaca pesan error dengan pelan-pelan, lalu mencari artinya. Sebelum commit dan push, saya akan mengecek dengan perintah git status supaya yakin file dan foldernya sudah benar. Kalau masih bingung, saya akan bertanya kepada teman atau dosen.
+Rencana saya untuk mengatasinya adalah mengunduh tools saat internet lancar. Saya juga akan membaca pesan error dengan pelan-pelan, lalu mencari artinya. Sebelum commit dan push, saya akan mengecek dengan perintah git status supaya yakin file dan foldernya sudah benar. Kalau masih bingung, saya akan bertanya kepada teman atau AI.
