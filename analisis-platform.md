@@ -1,8 +1,8 @@
 # Analisis Komparatif Platform: Web, Desktop, dan Mobile
 
-**Mata Kuliah:** Pemrograman Berbasis Platform
-**Nama:** [ABI RAFI FIRDAUS AL GHOZALI]
-**NIM:** [240511016]
+- **Mata Kuliah:** Pemrograman Berbasis Platform
+- **Nama:** ABI RAFI FIRDAUS AL GHOZALI
+- **NIM:** 240511016
 
 ## Tabel Perbandingan
 
